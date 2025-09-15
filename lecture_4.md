@@ -64,12 +64,12 @@ f(std::move(i)); // 3
 ```C++
 class <имя типа> [:<список баз>]
 {
-    private:
-        <описание полей>
-    protected:
-        ...
-    public:
-        ...
+private:
+    <описание полей>
+protected:
+    ...
+public:
+    ...
 };
 ```
 
